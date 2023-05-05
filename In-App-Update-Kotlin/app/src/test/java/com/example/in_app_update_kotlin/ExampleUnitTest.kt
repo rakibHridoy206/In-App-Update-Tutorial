@@ -1,4 +1,4 @@
-package com.example.in_app_update_java
+package com.example.in_app_update_kotlin
 
 import org.junit.Test
 

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.in_app_update_java'
+    namespace 'com.example.in_app_update_kotlin'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.in_app_update_java"
+        applicationId "com.example.in_app_update_kotlin"
         minSdk 29
         targetSdk 33
         versionCode 1
